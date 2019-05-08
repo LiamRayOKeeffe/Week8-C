@@ -1,0 +1,6 @@
+// My First C Program 
+int main(void) {
+  // Print message to say hello world
+  printf("Hello world!\n");
+  return 0;
+  }
